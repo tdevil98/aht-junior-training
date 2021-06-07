@@ -1,1 +1,1 @@
-<?php echo "Hello world!" ?>
+<?php echo "AHT Tech JSC!" ?>
